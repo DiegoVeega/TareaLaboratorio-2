@@ -1,5 +1,5 @@
 /**
- * EL PASSWORD ES TiendaN1
+ * EL PASSWORD ES: TiendaN1
  */
 package inventario;
 
